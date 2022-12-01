@@ -11,7 +11,11 @@ import SwiftUI
 struct POEditorTestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                MenuView { index in
+                    ContentView(index: index)
+                }
+            }.navigationTitle("POEditor test")
         }
     }
 }
