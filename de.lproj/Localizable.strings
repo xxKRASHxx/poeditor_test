@@ -1,7 +1,9 @@
-/* 
-  Localizable.strings
-  poeditor test
 
-  Created by Daniel Lisovoy on 01.12.2022.
-  
-*/
+/*Fuzzy*/
+"hello" = "Hallo";
+
+/*Fuzzy*/
+"world" = "Welt";
+
+/*Fuzzy*/
+"objects_count" = "Ein Objekt";
