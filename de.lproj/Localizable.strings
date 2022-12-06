@@ -1,9 +1,2 @@
-
-/*Fuzzy*/
-"hello" = "Hallo";
-
-/*Fuzzy*/
-"world" = "Welt";
-
-/*Fuzzy*/
-"objects_count" = "Ein Objekt";
+"foo" = "foo-german";
+"bar" = "bar-german";
